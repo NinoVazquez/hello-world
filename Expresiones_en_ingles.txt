@@ -1,0 +1,115 @@
+Expresiones en inglés:
+
+This is the new line for testing GITHUB
+
+I'm glad you brought that up = me alegro de que saque el tema
+
+in order to achieve = para lograr
+
+Which ones are most suitable and the most likely to be useful and effective? = cuales son las más adecuadas y las más probables que sean útiles y efectivas
+
+that best address functional requirements = que mejor afronte los requerimientos funcionales
+
+Compelling value = valor convincente
+
+added value = valor añadido
+
+policy rules that govern network and service behaviors = política de reglas que goviernen los comportamientos de la red y los servicios
+
+run-time operations 
+
+more of the same = más de lo mismo
+
+piece together = armar, juntar
+
+to gain meaningful insight = ganar perspectiva significativa
+
+Success in these areas will depend on whether = el éxito en estas áreas dependerá de si...
+
+to the degree needed to justify the investment = hasta el grado necesario para justificar la inversión
+
+for the short term= inicialmente, en un primer momento
+
+can become quite difficult = puede llegar a ser bastante difícil
+
+from the outset = desde el inicio
+
+related to day-to-day operation = relacionados con la operación diaria
+
+operations teams = equipos de operación
+
+day-to-day operational demands = demanda de la operación diaria
+
+As stated earlier = como se dijo anteriormente
+
+Achieving Simplicity = logrando simplicidad
+
+For there to be = para que haya
+
+depending on how organizations wish to address functional requirements.  = dependiendo en como las organizaciones deseen afrontar los requisitos funcionales
+
+that addresses the following major challenges = que aborde los siguientes retos principales
+
+major = principales
+
+empower = autorizar, permitir
+
+asset = a useful or valuable thing, person or quality = baza
+
+It is recommended that the following [sujeto] is used = se recomienda que el siguiente [xx] sea usado
+
+I will first go over the business requirements and technical issues addressed by the RODOD solution = Iré primero sobre los requerimientos de negocio y issues técnicos que afronta la solución RODOD
+
+is dealing with the ongoing and after effects = se enfrenta con el en curso y los efectos posteriores
+
+This paper delves into RODOD solution and the ways in which it satisfies those goals = Este documento ahonda en la solución RODOD y las formas en la que satisface esos objetivos
+
+the complexity of offers increases but time to market shortens = la complejidad de las ofertas se incrementa pero el time to market se reduce
+
+With the proliferation of bundled offers = con la proliferación de paquetes de ofertas
+
+Communication Service Providers (CSPs) face numerous challenges today: increased competition, rapidly changing market demands, pressure to launch more offers faster, control of operational expenses, and strengthening customer relationships = CSP encaran numerosos retos hoy en día, incremento de la competencia, cambios rápidos de las demandas de los mercados, presión para lanzar rápido más ofertas, control de los gastos operacionales, y fortalecer las relaciones con los clientes.
+
+OSM manages all downstream actions required in the fulfillment of that order = OSM gestiona todas las acciones posteriores que se requieren en el aprovisionamiento de esa orden
+
+Once the Order is sent to OSM for order fulfillment, OSM manages all downstream actions required in the fulfillment of that order. OSM splits the order into its constituent elements according to the decomposition rule. An orchestration plan is generated to complete the fulfillment across major back office applications including ERP, Billing, Workforce Management Systems, Inventory and Activation. OSM then manages the execution of that plan, including process prioritization and status updates = Una vez que la orden es enviada a OSM para su provisión, OSM gestiona todas las acciones posteriores requeridas para la provisión de esa orden. OSM divide la orden en sus elementos constituyentes de acuerdo a la regla de descomposición. Un plan de orquestación es generado para completar la provisión a través de las principales aplicaciones, incluyendo ERP, Billing, Logística, Inventory y Activación. OSM después gestiona la ejecución de ese plan, incluyendo la priorización de procesos y actualización de estados
+
+Order status is maintained throughout the fulfillment process and updated to Siebel so the front office personnel and customers can stay informed at all time = el estado de la orden se mantiene a lo largo del proceso de provisión y es actualizado a Siebel de forma que el personal de "front office" y los clientes pueden permanecer informados todo el tiempo.
+
+OSM also provides integration with Oracle Communications Unified Inventory Management (UIM) application to support management of network and service inventory = OSM también proporciona integración con UIM para soportar la gestión del inventario de red y servicios
+
+
+It’s also important to point out that = Es también importante señalar que..
+
+
+Following are some general, practical guidelines for addressing troubled projects = las siguientes son algunas directrices/pautas  prácticas generales para hacer frente a proyectos con problemas.
+
+must be handled as such = debe ser tratado/manejado como tal
+
+This is a frequent problem with the project team status reporting = este es un problema frecuente con el reporte de estatus del equipo del proyecto
+
+we are holding this meeting in english = vamos a mantener esta reunión en inglés
+
+to engage with = comprometerse con
+
+to engage in = involucrar a alguien en
+engagement = compromiso.
+
+overrun budget and deliver late
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
